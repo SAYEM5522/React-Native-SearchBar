@@ -21,9 +21,11 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    top:20,
+    flex: 1,
+    backgroundColor: 'rgba(0,0,255,0.79)',
   },
   Header:{
+    top:20,
     flexDirection:'row',
     alignItems:'center',
     justifyContent:'space-between',
