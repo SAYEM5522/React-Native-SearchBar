@@ -10,6 +10,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
     "eas-cli": "^0.38.3",
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
